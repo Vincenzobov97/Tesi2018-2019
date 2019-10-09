@@ -1,0 +1,177 @@
+<style>
+/*#button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+
+  border: none;
+  //border-radius: 6px;
+
+}
+
+
+
+#button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}*/
+
+/* {box-sizing: content-box;}*/
+
+
+
+input[type=button]{
+
+  background-color: blue;
+  color: white;
+padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type=select]{
+width: 50px;
+
+}
+
+th{
+
+margin-left: :50px;
+}
+
+tr{
+  height: 50px;
+}
+
+
+#divmsg {
+  width: auto;
+  margin-bottom: 5px;
+  text-align: center;
+  color: red;
+  margin-top: 5px;
+  font-size: 20px;
+  font-weight: bold;
+   font-family: verdana;
+   display: none;
+   border-Color: red;
+float: left;
+
+}
+
+#alert
+{
+width: 60px;
+height: 50px;
+margin-right: 10px;
+
+
+}
+ #global{
+   display: none;
+   width:auto;
+   height:100px;
+ }
+
+#divAlert
+{
+width: auto;
+height: auto;
+border-Color: red;
+float: left;
+display: none;
+margin-left: 400px;}
+
+
+#bhk{
+  font-family: arial;
+  font-size: 15px;
+  font-style: italic;
+   font-variant: normal;
+display: none;
+    line-height: 20px;
+  margin-left: 60px;
+margin-right: 20px;}
+
+#imgBhk{
+  height: 400px;
+  width: 300px;
+  margin-left: 500px;
+}
+
+#title{
+
+  margin-left: 40px;
+  color: green;
+}
+#b{
+
+  margin-left: 60px;
+
+}
+
+#child{
+
+  float: center;
+  margin-left: 100px;
+    margin-bottom:  20px;
+
+}
+
+#dowload{
+    float: center;
+    margin-left: 500px;
+}
+#valutazioneScritta{
+  font-family: arial;
+  font-size: 30px;
+ font-variant: bold;
+}
+#scarica{
+  font-family: arial;
+  font-size: 30px;
+ font-variant: bold;
+   margin-left: 200px;
+
+}
+#sofware{
+
+  font-family: arial;
+  font-size: 15px;
+  font-style: italic;
+   font-variant: normal;
+
+    line-height: 20px;
+  margin-left: 60px;
+margin-right: 20px;}
+
+
+#cheerpjDisplay{
+  margin-left: 600px;
+  margin-right: : 300px;
+  margin-top: : 50px;
+    margin-bottom: : 600px;
+  float: center;
+  border: none;
+}
+
+#prova{
+position: absolute;
+top: 900px;
+color: rgba(0,0,0,0);
+}
+
+#imgcaricamento{
+  margin-top: 30px;
+  width:800px;
+  height:65px;
+ position: absolute;
+ margin-left:250px;
+ top: 220px;
+ display: none;
+}
+
+</style>
